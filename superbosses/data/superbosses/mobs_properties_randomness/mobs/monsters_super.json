@@ -1,0 +1,13 @@
+{
+    "target": "#superbosses:monsters",
+    "priority": 54,
+    "presets": {
+        "chance": 0.1,
+        "list": [
+            {
+                "id": "superbosses:super_boss",
+                "weight": 100
+            }
+        ]
+    }
+}

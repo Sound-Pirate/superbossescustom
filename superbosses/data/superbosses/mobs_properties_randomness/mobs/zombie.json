@@ -1,0 +1,29 @@
+{
+    "target": "minecraft:zombie",
+    "priority": 54,
+    "presets": {
+        "chance": 1.0,
+        "list": [
+            {
+                "id": "superbosses:zombie_g1",
+                "weight": 850
+            },
+            {
+                "id": "superbosses:zombie_g2",
+                "weight": 100
+            },
+            {
+                "id": "superbosses:zombie_g3",
+                "weight": 35
+            },
+            {
+                "id": "superbosses:zombie_g4",
+                "weight": 10
+            },
+            {
+                "id": "superbosses:zombie_g5",
+                "weight": 5
+            }
+        ]
+    }
+}
